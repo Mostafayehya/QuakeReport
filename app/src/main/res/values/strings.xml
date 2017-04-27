@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?><!-- Copyright (C) 2016 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <string name="app_name">Quake Report</string>
+
+    <string name="Quake_mag_1">7.2</string>
+    <string name="Quake_mag_2">6.1</string>
+    <string name="Quake_mag_3">5.5</string>
+    <string name="Quake_mag_4">6.4</string>
+    <string name="Quake_mag_5">10.2</string>
+    <string name="Quake_mag_6">3.4</string>
+    <string name="Quake_mag_7">8.0</string>
+
+    <string name="Quake_loc_1">San Fransisco</string>
+    <string name="Quake_loc_2">London</string>
+    <string name="Quake_loc_3">Tokyo</string>
+    <string name="Quake_loc_4">Mexico</string>
+    <string name="Quake_loc_5">Moscow</string>
+    <string name="Quake_loc_6">Rio de Janeiro</string>
+    <string name="Quake_loc_7">Paris</string>
+
+    <string name="Quake_dat_1">September,11,2001</string>
+    <string name="Quake_dat_2">January,25,2011</string>
+    <string name="Quake_dat_3">March,15,1994</string>
+    <string name="Quake_dat_4">April,19,2006</string>
+    <string name="Quake_dat_5">May,1,2013</string>
+    <string name="Quake_dat_6">July,12,1980</string>
+    <string name="Quake_dat_7">October,10,1990</string>
+</resources>
